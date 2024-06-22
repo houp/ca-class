@@ -8,5 +8,13 @@ W tym repozytorium gromadzę na bieżąco materiały do wykładu i laboratorium 
 
 Materiały są w stanie _in progress draft_ - wszelkie poprawki i zgłoszenia błędów mile widziane.
 
+## Zdjęcie zespołowe
+
+Dnia 19.06.2024 r. odbyło się uroczyste zakończenie pierwszej edycji naszego projektu. Poniżej fotografia upamiętniająca ten moment :)
+
+![ca class 2024](https://github.com/houp/ca-class/blob/main/final_lecture_photo.jpg?raw=true)
+
+
 ## Autor
 Witold Bołt, e-mail: Witold.Bolt@ug.edu.pl
+
